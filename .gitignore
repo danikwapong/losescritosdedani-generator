@@ -1,0 +1,20 @@
+# Extensiones de editores y sistema
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs y archivos temporales
+*.log
+npm-debug.log*
+
+# Si usas algún preprocesador como Sass
+.sass-cache/
+
+# Si decides instalar dependencias vía npm más adelante
+node_modules/
+
+# Archivos de salida (opcional)
+# Si no quieres que las imágenes que descargues se suban al repo
+*.png
+*.jpg
